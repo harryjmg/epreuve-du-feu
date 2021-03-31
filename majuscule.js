@@ -10,7 +10,7 @@ var phrase2 = "";
 var passage = 0 ;
 
 for(var i = 0 ; i <= phrase.length ; i++){
-    passage += 0 ;
+    //  passage += 1 ;
     if(i == 0 ){
         phrase2 = phrase[i].toLowerCase();
     }
